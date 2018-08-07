@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_mlab_PW": "asmmorshed5",
+        "MONGO_mlab_USER": "asmmorshed",
+        "JWT_KEY": "asmmorshed"
+    }
+}
